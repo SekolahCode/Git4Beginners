@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/SekolahCode/Git4Beginners/blob/main/logo.png?raw=true" width="200" height="200"></a></p>
+<p align="center"><a href="https://sekolahcode.com" target="_blank"><img src="https://github.com/SekolahCode/Git4Beginners/blob/main/logo.png?raw=true" width="200" height="200"></a></p>
 
 
 <h1 align="center"> Git 4 Beginners </h1>
